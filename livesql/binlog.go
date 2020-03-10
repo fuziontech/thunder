@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/samsarahq/thunder/internal/fields"
+	"github.com/fuziontech/thunder/internal/fields"
 	"github.com/samsarahq/thunder/logger"
 	"github.com/samsarahq/thunder/sqlgen"
 	"github.com/siddontang/go-mysql/mysql"
