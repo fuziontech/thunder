@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/samsarahq/thunder/internal"
+	"github.com/samsarahq/fuziontech/internal"
 	"github.com/samsarahq/thunder/reactive"
 	"github.com/samsarahq/thunder/sqlgen"
 )
